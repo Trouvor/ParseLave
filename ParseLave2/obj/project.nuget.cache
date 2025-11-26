@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "y1MaMS/okB0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\perevoshikov.as\\Desktop\\Разное\\!!! C#\\!!! ПОПЫТКА №2\\ОСНОВЫ ПРОГРАММИРОВАНИЯ 2\\Proba\\parseLave2\\ParseLave2\\ParseLave2\\ParseLave2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\perevoshikov.as\\.nuget\\packages\\htmlagilitypack\\1.12.1\\htmlagilitypack.1.12.1.nupkg.sha512",
+    "C:\\Users\\perevoshikov.as\\.nuget\\packages\\litedb\\5.0.21\\litedb.5.0.21.nupkg.sha512",
+    "C:\\Users\\perevoshikov.as\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\perevoshikov.as\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "C:\\Users\\perevoshikov.as\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\perevoshikov.as\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\perevoshikov.as\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\perevoshikov.as\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\perevoshikov.as\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\perevoshikov.as\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512",
+    "C:\\Users\\perevoshikov.as\\.nuget\\packages\\telegram.bot\\22.6.0\\telegram.bot.22.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
