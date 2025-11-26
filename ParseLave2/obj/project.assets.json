@@ -596,24 +596,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\perevoshikov.as\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Андрей\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\perevoshikov.as\\Desktop\\Разное\\!!! C#\\!!! ПОПЫТКА №2\\ОСНОВЫ ПРОГРАММИРОВАНИЯ 2\\Proba\\parseLave2\\ParseLave2\\ParseLave2\\ParseLave2.csproj",
+      "projectUniqueName": "C:\\Repository\\ParseLave\\ParseLave2\\ParseLave2.csproj",
       "projectName": "ParseLave2",
-      "projectPath": "C:\\Users\\perevoshikov.as\\Desktop\\Разное\\!!! C#\\!!! ПОПЫТКА №2\\ОСНОВЫ ПРОГРАММИРОВАНИЯ 2\\Proba\\parseLave2\\ParseLave2\\ParseLave2\\ParseLave2.csproj",
-      "packagesPath": "C:\\Users\\perevoshikov.as\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\perevoshikov.as\\Desktop\\Разное\\!!! C#\\!!! ПОПЫТКА №2\\ОСНОВЫ ПРОГРАММИРОВАНИЯ 2\\Proba\\parseLave2\\ParseLave2\\ParseLave2\\obj\\",
+      "projectPath": "C:\\Repository\\ParseLave\\ParseLave2\\ParseLave2.csproj",
+      "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
+      "outputPath": "C:\\Repository\\ParseLave\\ParseLave2\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\perevoshikov.as\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Андрей\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -621,7 +616,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -639,8 +633,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -675,7 +668,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

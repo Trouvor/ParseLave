@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using LiteDB;
 
-
+//База, для сбора ID и Названий топиков, которые уже опубликованы
 namespace ParseLave2;
 
 public class Topics
