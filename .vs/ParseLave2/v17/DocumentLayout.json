@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Repository\\ParseLave\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0DCC99A-6166-4F33-A0E8-D41012134F68}|ParseLave2\\ParseLave2.csproj|c:\\repository\\parselave\\parselave2\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0DCC99A-6166-4F33-A0E8-D41012134F68}|ParseLave2\\ParseLave2.csproj|solutionrelative:parselave2\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0DCC99A-6166-4F33-A0E8-D41012134F68}|ParseLave2\\ParseLave2.csproj|c:\\repository\\parselave\\parselave2\\telegramm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DCC99A-6166-4F33-A0E8-D41012134F68}|ParseLave2\\ParseLave2.csproj|solutionrelative:parselave2\\telegramm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0DCC99A-6166-4F33-A0E8-D41012134F68}|ParseLave2\\ParseLave2.csproj|c:\\repository\\parselave\\parselave2\\parselot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +19,8 @@
       "RelativeMoniker": "D:0:0:{B0DCC99A-6166-4F33-A0E8-D41012134F68}|ParseLave2\\ParseLave2.csproj|solutionrelative:parselave2\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0DCC99A-6166-4F33-A0E8-D41012134F68}|ParseLave2\\ParseLave2.csproj|c:\\repository\\parselave\\parselave2\\telegramm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0DCC99A-6166-4F33-A0E8-D41012134F68}|ParseLave2\\ParseLave2.csproj|solutionrelative:parselave2\\telegramm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0DCC99A-6166-4F33-A0E8-D41012134F68}|ParseLave2\\ParseLave2.csproj|c:\\repository\\parselave\\parselave2\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DCC99A-6166-4F33-A0E8-D41012134F68}|ParseLave2\\ParseLave2.csproj|solutionrelative:parselave2\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -40,13 +40,14 @@
               "RelativeDocumentMoniker": "ParseLave2\\Service.cs",
               "ToolTip": "C:\\Repository\\ParseLave\\ParseLave2\\Service.cs",
               "RelativeToolTip": "ParseLave2\\Service.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T09:19:35.417Z"
+              "WhenOpened": "2025-07-15T09:19:35.417Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Base.cs",
               "DocumentMoniker": "C:\\Repository\\ParseLave\\ParseLave2\\Base.cs",
               "RelativeDocumentMoniker": "ParseLave2\\Base.cs",
@@ -59,15 +60,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Telegramm.cs",
               "DocumentMoniker": "C:\\Repository\\ParseLave\\ParseLave2\\Telegramm.cs",
               "RelativeDocumentMoniker": "ParseLave2\\Telegramm.cs",
               "ToolTip": "C:\\Repository\\ParseLave\\ParseLave2\\Telegramm.cs",
               "RelativeToolTip": "ParseLave2\\Telegramm.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAgwAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T04:38:39.287Z"
+              "WhenOpened": "2025-07-09T04:38:39.287Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -77,9 +79,10 @@
               "RelativeDocumentMoniker": "ParseLave2\\ParseLot.cs",
               "ToolTip": "C:\\Repository\\ParseLave\\ParseLave2\\ParseLot.cs",
               "RelativeToolTip": "ParseLave2\\ParseLot.cs",
-              "ViewState": "AQIAAKgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T09:38:16.624Z"
+              "WhenOpened": "2025-07-07T09:38:16.624Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -91,7 +94,8 @@
               "RelativeToolTip": "ParseLave2\\Program.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T08:47:54.754Z"
+              "WhenOpened": "2025-07-07T08:47:54.754Z",
+              "EditorCaption": ""
             }
           ]
         }
