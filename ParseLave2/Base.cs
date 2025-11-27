@@ -7,6 +7,7 @@ using LiteDB;
 
 //База, для сбора ID и Названий топиков, 
 //которые уже опубликованы в Telegram
+
 namespace ParseLave2;
 
 public class Topics
