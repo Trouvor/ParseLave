@@ -12,6 +12,8 @@ using ParseLave2;
 
 namespace ParseLave2;
 
+//Описано взаимодействие с Telegramm
+
 public class Telegramm
 {
     private static TelegramBotClient botClient;

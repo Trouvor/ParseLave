@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParseLave2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5261bfb258257549b5b9788d934ab12237e951aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9695476a71b15a57c8388f59b6bbe14e1056952d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParseLave2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParseLave2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
